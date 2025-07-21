@@ -53,7 +53,7 @@ SMOTE stands for **Synthetic Minority Oversampling Technique**. It generates new
 ## 📈 Final Model Performance
 
 After using SMOTE, class weights, and threshold tuning:
-- Accuracy: ~85%
+- Accuracy: ~79%
 - Recall for churn: significantly improved
 - Balanced prediction between churned and non-churned customers
 
