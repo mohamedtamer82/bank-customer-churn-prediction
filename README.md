@@ -1,6 +1,5 @@
-# bank-customer-churn-prediction
+# bank-customer-churn-prediction🚪📉
 A supervised ML project focused on predicting churn based on bank customer data using Random-forest algorithm
-# Bank Customer Churn Prediction 🚪📉
 
 This project predicts which customers are likely to leave a bank (churn) using machine learning algorithms. It focuses on improving model performance, especially in identifying customers who are about to churn.
 
